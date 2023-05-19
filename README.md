@@ -9,6 +9,9 @@ The mewron repository contains the CAD files and instructions to set up an indep
 If you use the files in this repository for scientific work, we kindly ask you to cite the following publication that fully describes the MEWron and its capabilities:
 
 MEWron: An open-source melt electrowriting platform
+
 https://doi.org/10.1016/j.addma.2023.103604
+
 Ander Reizabal, Taavet Kangur, Paula G. Saiz, Sönke Menke, Christophe Moser, Jürgen Brugger, Paul D. Dalton, Simon Luposchainsky
+
 Additive Manufacturing, Volume 71, 2023, 103604, ISSN 2214-860.
