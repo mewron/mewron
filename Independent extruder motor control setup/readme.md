@@ -14,7 +14,7 @@ You will need to copy files to the Raspberry Pi and access its shell/command lin
 
 •	Connect the extruder stepper motor driver pins to the raspberry PI GPIO pins (Instructions Figure b) and c)).
 
-![hardware modification and pin connections](Independent%20extruder%20motor%20control%20setup/motor_conversion.png)
+![hardware modification and pin connections](motor_conversion.png)
 
 •	Power up the Printer and access it through Putty
 
