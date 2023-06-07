@@ -1,5 +1,5 @@
 This folder contains the instructions and files necessary to continuously turn a stepper motor through pseudo G-code for MEW printing with Octoprint.
-The most recently tested and compatible version of this can be found in the appropriate sub-folder, including  updated files/folders necessary to follow them successfully.
+The most recently tested and compatible version of this can be found in the appropriate sub-folder, including  updated files/folders necessary to follow the steps successfully.
 
 -----
 
