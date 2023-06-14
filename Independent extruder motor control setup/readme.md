@@ -1,7 +1,12 @@
 This folder contains the instructions and files necessary to continuously turn a stepper motor through pseudo G-code for MEW printing with Octoprint.
-The most recently tested and compatible version of this can be found in the appropriate sub-folder, including  updated files/folders necessary to follow the steps successfully.
+
+<font size="10"> The most recent version of this guide with updated files can be found in the appropriate sub-folder. </font>
 
 -----
+
+# The following requires the files from folder v1.1
+
+
 
 Instructions V1.1 - tested with RPi_imager_1.7.5, Octoprint image octopi-1.0.0-klipper.20230222112442 and FYSETC Spyder 2.1 with Fysetc TMC2209_V3.1 stepper driver hardware.
 
